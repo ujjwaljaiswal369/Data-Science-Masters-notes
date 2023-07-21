@@ -1,0 +1,54 @@
+2023-06-16 07:22:57,528 root today is weather day 
+2023-06-16 07:23:16,949 root i got an error 
+2023-06-16 07:23:35,990 root i am not critical 
+2023-06-16 07:24:08,911 root today is weather day 
+2023-06-16 07:24:09,190 root i got an error 
+2023-06-16 07:24:09,564 root i am not critical 
+2023-06-16 07:24:26,800 root today is weather day 
+2023-06-16 07:24:27,020 root i got an error 
+2023-06-16 07:24:27,316 root i am not critical 
+2023-06-17 00:11:14,860 root today is weather day 
+2023-06-17 00:11:15,198 root i got an error 
+2023-06-17 00:11:15,563 root i am not critical 
+2023-06-17 00:16:21,256 root this is for loop and eterate through l to i 
+2023-06-17 00:16:21,257 root this is for loop and eterate through l to i 
+2023-06-17 00:16:21,257 root this is for loop and eterate through l to i 
+2023-06-17 00:16:21,257 root this is for loop and eterate through l to i 
+2023-06-17 00:16:21,257 root this is for loop and eterate through l to i 
+2023-06-17 00:16:21,257 root this is for loop and eterate through l to i 
+2023-06-17 00:16:21,257 root here inside checking type of element in for loop 
+2023-06-17 00:16:21,257 root eterat through i to j 
+2023-06-17 00:16:21,257 root checking type of j of integer 
+2023-06-17 00:16:21,258 root eterat through i to j 
+2023-06-17 00:16:21,258 root checking type of j of integer 
+2023-06-17 00:16:21,258 root eterat through i to j 
+2023-06-17 00:16:21,258 root checking type of j of integer 
+2023-06-17 00:16:21,258 root this is for loop and eterate through l to i 
+2023-06-17 00:16:21,258 root this is for loop and eterate through l to i 
+2023-06-17 00:29:32,682 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,462 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,463 root this is our result [1] and [] 
+2023-06-17 00:29:53,463 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,463 root this is our result [1, 2] and [] 
+2023-06-17 00:29:53,463 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,463 root this is our result [1, 2, 3] and [] 
+2023-06-17 00:29:53,463 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,463 root this is our result [1, 2, 3, 4] and [] 
+2023-06-17 00:29:53,463 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,463 root this is our result [1, 2, 3, 4, 5] and [] 
+2023-06-17 00:29:53,463 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,463 root here inside checking type of element in for loop 
+2023-06-17 00:29:53,463 root eterat through i to j 
+2023-06-17 00:29:53,463 root checking type of j of integer 
+2023-06-17 00:29:53,463 root eterat through i to j 
+2023-06-17 00:29:53,464 root checking type of j of integer 
+2023-06-17 00:29:53,464 root eterat through i to j 
+2023-06-17 00:29:53,464 root checking type of j of integer 
+2023-06-17 00:29:53,464 root this is our result [1, 2, 3, 4, 5, 12, 23, 45] and [] 
+2023-06-17 00:29:53,464 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,464 root this is our result [1, 2, 3, 4, 5, 12, 23, 45] and ['ujjwal'] 
+2023-06-17 00:29:53,464 root this is for loop and eterate through l to i 
+2023-06-17 00:29:53,464 root this is our result [1, 2, 3, 4, 5, 12, 23, 45] and ['ujjwal', 'shree_ram'] 
+2023-06-17 00:38:01,345 Comm No such comm target registered: jupyter.widget.control 
+2023-06-17 00:38:01,350 Comm No such comm: a1a8af75-2e8c-4e65-ae00-0ca3f5bf730d 
+2023-06-17 00:38:01,350 Comm Current comms: [] 

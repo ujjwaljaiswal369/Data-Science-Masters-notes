@@ -1,0 +1,32 @@
+2023-06-16 06:54:37,143 this is info option
+2023-06-16 06:54:38,191 this is last warning
+2023-06-16 06:54:38,591 this is an basic error
+2023-06-16 06:54:39,070 this is an critical
+2023-06-16 06:59:05,540 pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-06-16 06:59:05,551 No such comm target registered: jupyter.widget.control
+2023-06-16 06:59:05,554 No such comm: 3528e01c-dda7-49ad-98db-1cde3a63721c
+2023-06-16 06:59:05,554 Current comms: []
+2023-06-16 06:59:05,723 diff parser start
+2023-06-16 06:59:05,724 line_lengths old: 1; new: 1
+2023-06-16 06:59:05,724 -> code[replace] old[1:1] new[1:1]
+2023-06-16 06:59:05,724 parse_part from 1 to 1 (to 0 in part parser)
+2023-06-16 06:59:05,724 diff parser end
+2023-06-16 06:59:25,140 diff parser start
+2023-06-16 06:59:25,140 line_lengths old: 1; new: 1
+2023-06-16 06:59:25,140 -> code[replace] old[1:1] new[1:1]
+2023-06-16 06:59:25,141 parse_part from 1 to 1 (to 0 in part parser)
+2023-06-16 06:59:25,141 diff parser end
+2023-06-16 07:01:20,516 No such comm target registered: jupyter.widget.control
+2023-06-16 07:01:20,518 No such comm: 6a2872e2-3e4a-48c3-a860-f7b3aa3bf0d8
+2023-06-16 07:01:20,518 Current comms: []
+2023-06-16 07:11:11,109 this is info option
+2023-06-16 07:11:11,539 this is last warning
+2023-06-16 07:11:11,969 this is an basic error
+2023-06-16 07:11:12,358 this is an critical
+2023-06-16 07:11:20,161 this is info option
+2023-06-16 07:11:20,521 this is last warning
+2023-06-16 07:11:20,929 this is an basic error
+2023-06-16 07:11:21,267 this is an critical
+2023-06-16 07:13:23,646 No such comm target registered: jupyter.widget.control
+2023-06-16 07:13:23,648 No such comm: 56fde4e5-b379-485c-bdc0-5dd33510e08e
+2023-06-16 07:13:23,649 Current comms: []

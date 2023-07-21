@@ -1,0 +1,21 @@
+INFO:root:jai shree ram
+INFO:root: Shree ram is the owner of milkyway
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: fc31492a-d041-4f59-99ac-652239e6e577
+WARNING:root:Don't do sins
+ERROR:root:this is error
+CRITICAL:root:data science is not critical as you think
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 9cd0474d-a2ce-4ad7-985b-fa8d705a251d
+INFO:root:this is info option
+WARNING:root:this is last warning
+ERROR:root:this is an basic error
+CRITICAL:root:this is an critical
+INFO:root:jai shree ram
+INFO:root: Shree ram is the owner of milkyway
+WARNING:root:Don't do sins
+ERROR:root:this is error
+CRITICAL:root:data science is not critical as you think
+INFO:root:today is weather day
+ERROR:root:i got an error
+CRITICAL:root:i am not critical
